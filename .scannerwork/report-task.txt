@@ -1,6 +1,0 @@
-projectKey=run-python
-serverUrl=http://18.206.131.127:9005
-serverVersion=7.5.0.20543
-dashboardUrl=http://18.206.131.127:9005/dashboard?id=run-python
-ceTaskId=AXJ4XLfRHsfeLeD4Sri6
-ceTaskUrl=http://18.206.131.127:9005/api/ce/task?id=AXJ4XLfRHsfeLeD4Sri6
